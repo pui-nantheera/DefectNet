@@ -2,8 +2,6 @@
 Defectnet: Multi-Class Fault Detection on Highly-Imbalanced Datasets
 Paper: https://arxiv.org/abs/1904.00863
 
-
-#  -----------------------------------------------------------------------------------
 # For training the model:
 LOGS_DIR="model/"  
 PATCH_DIR="Patches400/Train/"  
